@@ -70,7 +70,7 @@ of documents to ensure they were deleted.
 Some of number values are stored as strings, when they should be stored as numbers.
 
 Used ```update_many``` to convert latitude and longitude to decimal numbers.
-Used ```update_many`` to convert ```RatingValue``` to integer numbers.
+Used ```update_many``` to convert ```RatingValue``` to integer numbers.
 
 ## Part 3: Exploratory Analysis
 Eat Safe, Love has specific questions they want to be answered, which will help them find the locations they wish to 
